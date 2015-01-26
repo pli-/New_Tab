@@ -9,5 +9,8 @@
   "permissions": [
   "alarms"
   ],
+  "web_accessible_resources": [
+	"images/background.png"
+  ],
   "manifest_version": 2
 }
